@@ -29,10 +29,7 @@ XP: 0
 [2] - Rebirth
 [3] - Exit
 Choose: 1
-// Player gains 10 XP (10 * Power)
-
-Choose: 1
-// XP increases again
+// Player gains 10 XP 
 
 Choose: 2
 // Player has >=100 XP, performs rebirth
