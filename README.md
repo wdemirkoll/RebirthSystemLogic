@@ -11,9 +11,7 @@ This project is written using C++17.
 Features ✅
 --------
 - Menu-driven gameplay loop 🧭  
-- Earn XP through actions ⚡  
 - **Rebirth system:** reset XP to 0 and increase power 🔁  
-- Power multiplier affects XP gain 💥  
 - Track total rebirths for progression 📊  
 - Infinite progression logic ♾️  
 
